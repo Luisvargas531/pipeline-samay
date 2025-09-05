@@ -1,0 +1,14 @@
+{
+  "deviceInfo": {
+    "id": "ST2_1502",
+    "version": "2.0.1"
+  },
+  "patientID": "P-2503",
+  "recordingTime": "2025-08-30T18:29:08.037893",
+  "audioData": {
+    "filename": "rec_79531.wav",
+    "duration_ms": 12049,
+    "quality_score": 0.38
+  },
+  "diagnosis_code": "I50.9"
+}

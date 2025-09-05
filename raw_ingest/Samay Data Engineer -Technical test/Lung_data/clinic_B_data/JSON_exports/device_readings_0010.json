@@ -1,0 +1,11 @@
+{
+  "rec_id": "802559",
+  "pt_id": "PT3002",
+  "datetime": "20250131182908",
+  "wav_file": "DS_PRO_6793.wav",
+  "clinical_data": {
+    "position": "Anterior_Left_Middle",
+    "filter_mode": 3,
+    "diagnosis": null
+  }
+}

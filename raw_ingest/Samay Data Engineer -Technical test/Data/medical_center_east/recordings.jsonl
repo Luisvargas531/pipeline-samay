@@ -1,0 +1,15 @@
+{"rec_id": "275133", "pt_id": "PT2069", "datetime": "20250806182908", "wav_file": "DS_PRO_5885.wav", "clinical_data": {"position": "Anterior_Left_Upper", "filter_mode": 2, "diagnosis": "Heart_Failure"}}
+{"id": 2193, "patient_code": "B601", "date": 1740698948047, "audio": "sound_3088.wav", "notes": "Wheezes detected"}
+{"id": 314, "patient_code": "A329", "date": 1750721348047, "audio": "sound_3461.wav", "notes": "Normal breathing"}
+{"deviceInfo": {"id": "ST2_3017", "version": "2.0.1"}, "patientID": "P-7006", "recordingTime": "2025-08-30T18:29:08.047914", "audioData": {"filename": "rec_95267.wav", "duration_ms": 6224, "quality_score": 0.38}, "diagnosis_code": "J45.9"}
+{"device_id": "ST1_1785", "patient": "PAT777", "timestamp": 1756596548, "audio_file": "audio_24170.wav", "metadata": {"filter": "Extended", "gain": 1}}
+{"device_id": "ST1_2897", "patient": "PAT526", "timestamp": 1756596548, "audio_file": "audio_68237.wav", "metadata": {"filter": "Diaphragm", "gain": 2}}
+{"rec_id": "597440", "pt_id": "PT3508", "datetime": "20250516182908", "wav_file": "DS_PRO_1152.wav", "clinical_data": {"position": "Anterior_Left_Upper", "filter_mode": 2, "diagnosis": "Bronchitis"}}
+{"deviceInfo": {"id": "ST2_7862", "version": "2.0.1"}, "patientID": "P-2718", "recordingTime": "2025-08-30T18:29:08.047933", "audioData": {"filename": "rec_77054.wav", "duration_ms": 28552, "quality_score": 0.62}, "diagnosis_code": "J45.9"}
+{"device_id": "ST1_2741", "patient": "PAT609", "timestamp": 1756596548, "audio_file": "audio_36037.wav", "metadata": {"filter": "Extended", "gain": 4}}
+{"rec_id": "971889", "pt_id": "PT9571", "datetime": "20250518182908", "wav_file": "DS_PRO_6864.wav", "clinical_data": {"position": "Anterior_Left_Middle", "filter_mode": 2, "diagnosis": null}}
+{"id": 3403, "patient_code": "C592", "date": 1741908548047, "audio": "sound_3843.wav", "notes": "Normal breathing"}
+{"device_id": "ST1_2458", "patient": "PAT213", "timestamp": 1756596548, "audio_file": "audio_85255.wav", "metadata": {"filter": "Extended", "gain": 8}}
+{"deviceInfo": {"id": "ST2_2475", "version": "2.0.1"}, "patientID": "P-9383", "recordingTime": "2025-08-30T18:29:08.047952", "audioData": {"filename": "rec_19836.wav", "duration_ms": 28709, "quality_score": 0.72}, "diagnosis_code": "J45.9"}
+{"deviceInfo": {"id": "ST2_8483", "version": "2.0.1"}, "patientID": "P-5850", "recordingTime": "2025-08-30T18:29:08.047956", "audioData": {"filename": "rec_44619.wav", "duration_ms": 20213, "quality_score": 0.05}, "diagnosis_code": "J18.9"}
+{"device_id": "ST1_5760", "patient": "PAT468", "timestamp": 1756596548, "audio_file": "audio_98705.wav", "metadata": {"filter": "Diaphragm", "gain": 7}}

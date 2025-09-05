@@ -1,0 +1,14 @@
+{
+  "deviceInfo": {
+    "id": "ST2_2234",
+    "version": "2.0.1"
+  },
+  "patientID": "P-3902",
+  "recordingTime": "2025-08-30T18:29:08.037950",
+  "audioData": {
+    "filename": "rec_92306.wav",
+    "duration_ms": 21191,
+    "quality_score": 0.46
+  },
+  "diagnosis_code": null
+}

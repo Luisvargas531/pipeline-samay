@@ -1,0 +1,11 @@
+{
+  "rec_id": "580292",
+  "pt_id": "PT1510",
+  "datetime": "20250729182908",
+  "wav_file": "DS_PRO_8847.wav",
+  "clinical_data": {
+    "position": "Anterior_Left_Middle",
+    "filter_mode": 2,
+    "diagnosis": "Lung_Fibrosis"
+  }
+}

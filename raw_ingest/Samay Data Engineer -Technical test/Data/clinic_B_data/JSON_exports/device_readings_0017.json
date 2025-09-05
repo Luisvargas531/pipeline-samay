@@ -1,0 +1,10 @@
+{
+  "device_id": "ST1_2336",
+  "patient": "PAT378",
+  "timestamp": 1756596548,
+  "audio_file": "audio_68079.wav",
+  "metadata": {
+    "filter": "Extended",
+    "gain": 7
+  }
+}

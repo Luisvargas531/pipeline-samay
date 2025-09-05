@@ -1,0 +1,53 @@
+Patient P4868 seen on 2025-02-25. Pleural friction rub detected. Refer to pulmonologist
+
+---
+
+P6876/29/07/2025: Normal vesicular breath sounds throughout -> Order chest X-ray
+
+---
+
+Patient ID: P8450
+Date: 07-14-2025
+Examination findings: Fine crackles in lower lobes bilaterally
+Recommendation: Consider CT scan if symptoms persist
+
+---
+
+P1349/04/08/2025: Fine crackles in lower lobes bilaterally -> Order chest X-ray
+
+---
+
+P4362/07-25-2025: Fine crackles in lower lobes bilaterally -> Follow up in 2 weeks
+
+---
+
+2025-03-14 - Pt P4817: Prolonged expiratory phase with wheeze. Plan: Follow up in 2 weeks
+
+---
+
+Patient ID: P5542
+Date: 2025-06-16
+Examination findings: Rhonchi cleared with coughing
+Recommendation: Refer to pulmonologist
+
+---
+
+2024-09-25 - Pt P2801: Fine crackles in lower lobes bilaterally. Plan: Continue current medication
+
+---
+
+ID P4898
+01/11/2024
+
+Bilateral wheezes noted, worse on expiration
+
+Next steps: Order chest X-ray
+
+---
+
+ID P1858
+06-26-2025
+
+Diminished breath sounds at right base
+
+Next steps: Follow up in 2 weeks

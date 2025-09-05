@@ -1,0 +1,11 @@
+{
+  "rec_id": "265055",
+  "pt_id": "PT7062",
+  "datetime": "20250323182908",
+  "wav_file": "DS_PRO_6314.wav",
+  "clinical_data": {
+    "position": "Posterior_Right_Upper",
+    "filter_mode": 1,
+    "diagnosis": null
+  }
+}

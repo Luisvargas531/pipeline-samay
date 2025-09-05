@@ -1,0 +1,10 @@
+{
+  "device_id": "ST1_6482",
+  "patient": "PAT167",
+  "timestamp": 1756596548,
+  "audio_file": "audio_53213.wav",
+  "metadata": {
+    "filter": "Bell",
+    "gain": 9
+  }
+}

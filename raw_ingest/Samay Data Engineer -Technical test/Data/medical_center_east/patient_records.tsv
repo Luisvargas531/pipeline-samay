@@ -1,0 +1,36 @@
+diagnosis	sample_rate	patient_id	filename	location	age	recording_date	duration	gender
+Lung_Fibrosis		P3735	14-04-2025_P3735_55.wav		51.0	2025-02-26		1
+Pneumonia	44.1kHz	P5179	09-11-2024_P5179_1.wav	Posterior_Left_Upper	19.0			Female
+		P4678	28-01-2025_P4678_74.wav			20250806		M
+Lung_Fibrosis		P6090	19-11-2024_P6090_26.wav		56.0	21/05/2025	5.6	F
+Pneumonia		P1157	29-08-2025_P1157_14.wav	Anterior_Left_Middle	48.0	2025-07-13	14.0	M
+Pleural_Effusion	48000	P9280	09-02-2025_P9280_56.wav		48.0	03-15-2025		
+Asthma		P2785	06-06-2025_P2785_53.wav	Anterior_Left_Upper	44.0		22.0	Female
+	44100	P6370	30-08-2024_P6370_66.wav		51.0	10/01/2025		F
+Asthma			08-05-2025_P1195_48.wav		28.0		16.1	Male
+Pneumonia		P6432	05-01-2025_P6432_93.wav		66.0			F
+		P5026	17-12-2024_P5026_8.wav	Posterior_Left_Upper		03/12/2024	24.55	
+Bronchitis		P8940	13-11-2024_P8940_24.wav	Anterior_Right_Upper	46.0		30.0	
+Heart_Failure		P4951	01-08-2025_P4951_46.wav	Posterior_Left_Lower		08-15-2025		
+COPD		P9064	01-06-2025_P9064_8.wav	Anterior_Right_Upper	20.0	08/03/2025		M
+		P3320	03-12-2024_P3320_91.wav	Anterior_Right_Middle	30.0		9.36	Male
+Normal	48000	P3872	11-09-2024_P3872_94.wav		68.0		20.0	
+		P6425	30-04-2025_P6425_82.wav	Posterior_Left_Upper	60.0	03-03-2025		Male
+COPD		P7875	30-01-2025_P7875_70.wav				12.37	
+Pneumonia	44.1kHz		03-06-2025_P2715_71.wav		79.0	19/01/2025		Female
+Pleural_Effusion		P9849	07-04-2025_P9849_7.wav	Anterior_Right_Middle	80.0			
+Pneumonia		P3798	19-07-2025_P3798_51.wav		51.0			
+COPD		P8204	06-05-2025_P8204_20.wav	Anterior_Right_Middle		20250212		
+Pleural_Effusion			12-08-2025_P5896_23.wav	Posterior_Left_Lower	42.0		11.0	
+Asthma		P7510	10-04-2025_P7510_54.wav	Anterior_Right_Upper	36.0	2024-11-14	11.603	1
+Bronchitis	44100		10-04-2025_P8750_5.wav	Anterior_Left_Upper	60.0	08-19-2025		M
+Lung_Fibrosis	44.1kHz	P4734	15-01-2025_P4734_78.wav	Posterior_Left_Lower		2025-02-19		
+Bronchitis	44100	P3222	04-12-2024_P3222_26.wav					Male
+Asthma		P4963	29-10-2024_P4963_76.wav		38.0			Male
+Lung_Fibrosis		P4511	02-10-2024_P4511_35.wav	Posterior_Left_Upper	20.0	02/10/2024		
+Pleural_Effusion		P6004	31-08-2024_P6004_45.wav	Anterior_Left_Upper		08-26-2025		2
+Normal		P2045	10-04-2025_P2045_84.wav	Posterior_Left_Lower		20241026	21.39	
+Bronchitis	48kHz	P7857	11-08-2025_P7857_88.wav		78.0	27/09/2024		2
+Asthma		P3999	11-03-2025_P3999_29.wav		60.0	2024-10-09		1
+Pneumonia		P7253	30-01-2025_P7253_26.wav	Posterior_Left_Lower	76.0	12-23-2024		
+Normal		P8406	04-06-2025_P8406_17.wav	Posterior_Right_Lower	72.0	2025-02-19		Female

@@ -1,0 +1,11 @@
+{
+  "rec_id": "916964",
+  "pt_id": "PT3754",
+  "datetime": "20250721182908",
+  "wav_file": "DS_PRO_9363.wav",
+  "clinical_data": {
+    "position": "Posterior_Right_Upper",
+    "filter_mode": 3,
+    "diagnosis": "Heart_Failure"
+  }
+}

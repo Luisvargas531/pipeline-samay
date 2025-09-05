@@ -1,0 +1,11 @@
+{
+  "rec_id": "456331",
+  "pt_id": "PT6751",
+  "datetime": "20250826182908",
+  "wav_file": "DS_PRO_3972.wav",
+  "clinical_data": {
+    "position": "Posterior_Left_Lower",
+    "filter_mode": 3,
+    "diagnosis": "Asthma"
+  }
+}

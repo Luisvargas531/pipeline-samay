@@ -1,0 +1,14 @@
+{
+  "deviceInfo": {
+    "id": "ST2_6962",
+    "version": "2.0.1"
+  },
+  "patientID": "P-7108",
+  "recordingTime": "2025-08-30T18:29:08.037982",
+  "audioData": {
+    "filename": "rec_47079.wav",
+    "duration_ms": 17694,
+    "quality_score": 0.41
+  },
+  "diagnosis_code": "J45.9"
+}

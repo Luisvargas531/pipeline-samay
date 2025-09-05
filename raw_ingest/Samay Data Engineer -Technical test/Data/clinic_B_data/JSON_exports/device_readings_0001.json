@@ -1,0 +1,10 @@
+{
+  "device_id": "ST1_8405",
+  "patient": "PAT615",
+  "timestamp": 1756596548,
+  "audio_file": "audio_39038.wav",
+  "metadata": {
+    "filter": "Extended",
+    "gain": 1
+  }
+}

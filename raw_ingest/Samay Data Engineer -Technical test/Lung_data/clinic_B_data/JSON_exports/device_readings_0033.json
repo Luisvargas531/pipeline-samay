@@ -1,0 +1,10 @@
+{
+  "device_id": "ST1_6766",
+  "patient": "PAT619",
+  "timestamp": 1756596548,
+  "audio_file": "audio_19724.wav",
+  "metadata": {
+    "filter": "Diaphragm",
+    "gain": 8
+  }
+}

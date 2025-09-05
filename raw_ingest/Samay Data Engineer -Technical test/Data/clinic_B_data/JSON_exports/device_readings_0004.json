@@ -1,0 +1,14 @@
+{
+  "deviceInfo": {
+    "id": "ST2_5505",
+    "version": "2.0.1"
+  },
+  "patientID": "P-9984",
+  "recordingTime": "2025-08-30T18:29:08.037833",
+  "audioData": {
+    "filename": "rec_52622.wav",
+    "duration_ms": 17481,
+    "quality_score": 0.99
+  },
+  "diagnosis_code": null
+}

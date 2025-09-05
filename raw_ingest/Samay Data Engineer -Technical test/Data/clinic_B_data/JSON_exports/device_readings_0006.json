@@ -1,0 +1,14 @@
+{
+  "deviceInfo": {
+    "id": "ST2_8046",
+    "version": "2.0.1"
+  },
+  "patientID": "P-8398",
+  "recordingTime": "2025-08-30T18:29:08.037848",
+  "audioData": {
+    "filename": "rec_39949.wav",
+    "duration_ms": 18559,
+    "quality_score": 0.34
+  },
+  "diagnosis_code": "I50.9"
+}

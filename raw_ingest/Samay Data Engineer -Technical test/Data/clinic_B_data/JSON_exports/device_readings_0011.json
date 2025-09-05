@@ -1,0 +1,11 @@
+{
+  "rec_id": "729575",
+  "pt_id": "PT6119",
+  "datetime": "20250302182908",
+  "wav_file": "DS_PRO_2697.wav",
+  "clinical_data": {
+    "position": "Posterior_Right_Lower",
+    "filter_mode": 1,
+    "diagnosis": "COPD"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "rec_id": "403507",
+  "pt_id": "PT6375",
+  "datetime": "20250629182908",
+  "wav_file": "DS_PRO_1126.wav",
+  "clinical_data": {
+    "position": "Anterior_Right_Middle",
+    "filter_mode": 3,
+    "diagnosis": "Pneumonia"
+  }
+}
